@@ -1,1 +1,1 @@
-# -G-rev-Takip-ve-Hat-rlatma-Sistemi
+# -Gorev-Takip-ve-Hatirlatma-Sistemi
