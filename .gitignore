@@ -28,3 +28,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ IDEA ayarları
+.idea/
+*.iml
+
+# Derlenmiş dosyalar
+out/
+bin/
+build/
+target/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
